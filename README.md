@@ -1,3 +1,7 @@
+This is the folder giving by openclassroom.
+I was in need to build the website using React.
+so you can find the backend here and the front is https://github.com/AZAM-Fabien/bank-website
+
 # Argent Bank API
 
 This codebase contains the code needed to run the backend for Argent Bank.
